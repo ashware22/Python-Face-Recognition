@@ -1,5 +1,5 @@
 
-# Python Face Recognition [![forthebadge](https://forthebadge.com/generator/?plabel=Made+With&slabel=PYTHON)](https://forthebadge.com)
+# Python Face Recognition [![forthebadge](https://forthebadge.com/generator/?plabel=Made+with&slabel=python)](https://forthebadge.com)
 ### This is a simple python Face Recognition script which uses OpenCV library to do the task. 
 ---
 ### Instructions
